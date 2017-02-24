@@ -1,0 +1,2 @@
+# RainyHills
+implementing RainyHills algoritem
