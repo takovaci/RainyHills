@@ -6,10 +6,10 @@ This is implementation of Rainy hills algorithm. Best case scenario it can find 
 
 #Prerequisites
 
--JDK 8
--Maven 3 or higher
--Git client
--Jboss 10 wildfly
+- JDK 8
+- Maven 3 or higher
+- Git client
+- Jboss 10 wildfly
 
 #Modules 
 
