@@ -13,8 +13,8 @@ This is implementation of Rainy hills algorithm. Best case scenario it can find 
 
 #Modules 
 
--rainyhills.ws - Maven module with Rainy hills algorithm, wrapped into webservice and produces war deployable file
--rainyhills.wsc - Test webservice cliente with some JUnit tests
+- rainyhills.ws - Maven module with Rainy hills algorithm, wrapped into webservice and produces war deployable file
+- rainyhills.wsc - Test webservice cliente with some JUnit tests
 
 #Install
 
@@ -38,5 +38,6 @@ Tadej Kovačič
 #Changelog
 
 0.0.1 (27.2.2017)
--first version for deployment
--added some Junit test to rainyhills.wsc module.
+
+- first version for deployment
+- added some Junit test to rainyhills.wsc module.
